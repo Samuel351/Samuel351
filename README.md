@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel351
 - 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
