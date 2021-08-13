@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Samuel351
 - 👀 I’m interested in becoming a developer
 - 🌱 I’m currently learning Java and PHP 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on project to help people but, I don´t how to develop yet
+- 📫 How to reach me you can see my linkedin, facebook or instragram
 
 <!---
 Samuel351/Samuel351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
