@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samuel351
 - 👀 I’m interested in becoming a developer
 - 🌱 I’m currently learning Java and PHP 
-- 💞️ I’m looking to collaborate on project to help people but, I don´t how to develop yet
+- 💞️ I’m looking to collaborate on project to help people 
 - 📫 How to reach me you can see my linkedin, facebook or instragram
 
 <!---
