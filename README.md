@@ -5,6 +5,7 @@
 - 📫 Você pode me ver no linkedin: https://www.linkedin.com/in/sscosta2003/
 
 
+English
 - 👋 Hi, I’m @Samuel351
 - 👀 I’m interested in becoming a developer
 - 🌱 I’m currently learning C# and .NET 
