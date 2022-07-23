@@ -1,11 +1,7 @@
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel351&langs_count=8&layout=compact&hide=shaderlab,HLSL,hack" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel351&langs_count=8&layout=compact&hide=shaderlab,HLSL,hack&custom_title=Linguagens%20mais%20usadas%0A" />
 </div>
-<!---
-Samuel351/Samuel351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h2 align="center">Linguagens</h2> 
 <div align="center">
