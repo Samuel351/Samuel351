@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel351&langs_count=8&layout=compact&hide=shaderlab,HLSL,hack&custom_title=Linguagens%20mais%20usadas%0A" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel351&langs_count=8&layout=compact&hide=shaderlab,HLSL,hack,makefile&custom_title=Linguagens%20mais%20usadas%0A" />
 </div>
 
 <h2 align="center">Linguagens</h2> 
