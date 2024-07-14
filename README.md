@@ -5,7 +5,7 @@ Olá! meu nome é Samuel Silva Costa
 Sou Analista de Sistemas na Evo Systems
 --------------------
 
-Sou Tecnólogo em Desenvolvimento de Sistemas e atualmente estou cursando o último semestre de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul - Dom Paulo Evaristo Arns. Apaixonado por projetar e desenvolver sistemas, busco sempre colocar minhas ideias em prática e expandir meus conhecimentos e habilidades. Adoro enfrentar desafios e transformar ideias em realidade através da programação e do desenvolvimento de software.
+Com 2 anos de experiência na área de desenvolvimento e engenharia de software, participei ativamente de projetos reais, desde o levantamento de requisitos até a implantação. Possuo habilidades no desenvolvimento de microsserviços e aplicações web utilizando os frameworks .NET e Angular. Minha trajetória inclui o desenvolvimento de consultas em SQL e a utilização de bancos de dados relacionais, como MySQL e PostgreSQL, e bancos de dados não relacionais, como MongoDB. Por último, possuo experiências reais em implementação de aplicações na nuvem AWS ou on-promises, e também criação e gerenciamento de ambientes e serviços na nuvem AWS.
 
 *   🌍  Estou em São Paulo
 *   ✉️  Meu contato [sscosta2003@outlook.com](mailto:sscosta2003@outlook.com)
