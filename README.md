@@ -9,7 +9,7 @@ Sou Tecnólogo em Desenvolvimento de Sistemas e atualmente estou cursando o últ
 
 *   🌍  Estou em São Paulo
 *   ✉️  Meu contato [sscosta2003@outlook.com](mailto:sscosta2003@outlook.com)
-*   🧠  Estou apredendo Azure
+*   🧠  Estou aprendendo Azure
 
 
 <h1>Meus conhecimentos</h1>
