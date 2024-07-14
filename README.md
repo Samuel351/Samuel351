@@ -2,7 +2,7 @@
 Olá! meu nome é Samuel Silva Costa
 ==========================================================================================================================================
 
-Analista de Sistemas
+Sou Analista de Sistemas na Evo Systems
 --------------------
 
 Sou Tecnólogo em Desenvolvimento de Sistemas e atualmente estou cursando o último semestre de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul - Dom Paulo Evaristo Arns. Apaixonado por projetar e desenvolver sistemas, busco sempre colocar minhas ideias em prática e expandir meus conhecimentos e habilidades. Adoro enfrentar desafios e transformar ideias em realidade através da programação e do desenvolvimento de software.
