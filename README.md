@@ -5,7 +5,7 @@ Olá! meu nome é Samuel Silva Costa
 Sou Analista de Sistemas na Evo Systems
 --------------------
 
-Com 2 anos de experiência na área de desenvolvimento e engenharia de software, participei ativamente de projetos reais, desde o levantamento de requisitos até a implantação. Possuo habilidades no desenvolvimento de microsserviços e aplicações web utilizando os frameworks .NET e Angular. Minha trajetória inclui o desenvolvimento de consultas em SQL e a utilização de bancos de dados relacionais, como MySQL e PostgreSQL, e bancos de dados não relacionais, como MongoDB. Por último, possuo experiências reais em implementação de aplicações na nuvem AWS ou on-promises, e também criação e gerenciamento de ambientes e serviços na nuvem AWS.
+Atualmente, sou responsável pelo desenvolvimento de aplicações web utilizando .NET e Angular, além da implantação e gestão de ambientes em nuvem, tanto na AWS quanto na Azure. Participo ativamente de todas as etapas do ciclo de vida do software — desde a coleta e especificação de requisitos até a entrega.
 
 *   🌍  Estou em São Paulo
 *   ✉️  Meu contato [sscosta2003@outlook.com](mailto:sscosta2003@outlook.com)
