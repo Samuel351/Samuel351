@@ -9,7 +9,7 @@ Com 2 anos de experiência na área de desenvolvimento e engenharia de software,
 
 *   🌍  Estou em São Paulo
 *   ✉️  Meu contato [sscosta2003@outlook.com](mailto:sscosta2003@outlook.com)
-*   🧠  Estou aprendendo Azure
+*   🧠  Estou aprendendo CQRS
 
 
 <h1>Meus conhecimentos</h1>
